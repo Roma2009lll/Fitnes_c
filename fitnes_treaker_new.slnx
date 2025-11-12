@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fitnes_treaker_new.vcxproj" Id="c700c010-45f4-495c-b615-673957303c1a" />
+</Solution>
